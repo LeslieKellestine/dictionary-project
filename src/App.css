@@ -1,4 +1,23 @@
+.App {
+margin: 18px auto;
+  max-width: 700px;
+}
+body {
+    background: #66bfbf; 
+}
+.App-logo {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+ h1 {
+     color: #fcfefe;
+     text-align: center;
+ }
 .App-Footer{
     text-align: center;
     margin: 30px 0;
+    opacity: 0.5;
+    font-weight: bold;
 }
