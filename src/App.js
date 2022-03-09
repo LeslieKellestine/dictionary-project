@@ -16,7 +16,6 @@ function App() {
         <footer className='App-Footer'>Coded by Leslie Kellestine and is <a href="https://github.com/LeslieKellestine/dictionary-project" target="_blank" rel="noreferrer">open-sourced on GitHub</a></footer>
       </div>
     </div>
-
   );
 }
 
